@@ -1,2 +1,3 @@
-# centrifugo-pro
-A home for Centrifugo PRO releases
+# Centrifugo PRO
+
+A home for [Centrifugo PRO](https://centrifugal.dev/docs/pro/overview) releases.
