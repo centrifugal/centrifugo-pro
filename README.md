@@ -13,3 +13,7 @@ Centrifugo PRO versions may differ from Centrifugo OSS. In release notes we alwa
 ## Report issues
 
 Please report any issue found with Centrifugo PRO [here in this repo](https://github.com/centrifugal/centrifugo-pro/issues)
+
+## Report security issues
+
+See [Security Policy](https://github.com/centrifugal/centrifugo-pro/security/policy) for security reports flow description.
